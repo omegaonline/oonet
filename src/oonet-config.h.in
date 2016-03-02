@@ -1,0 +1,38 @@
+
+/* Define to 1 if you have the `accept4' function. */
+#undef HAVE_ACCEPT4
+
+/* Define to 1 if you have the <asl.h> header file. */
+#undef HAVE_ASL_H
+
+/* Define to 1 if you have the `pipe2' function. */
+#undef HAVE_PIPE2
+
+/* Define to 1 if you have the <syslog.h> header file. */
+#undef HAVE_SYSLOG_H
+
+/* Define to 1 if you have the __builtin_bswap16 compiler intrinsic */
+#undef HAVE___BUILTIN_BSWAP16
+
+/* Define to 1 if you have the __builtin_bswap32 compiler intrinsic */
+#undef HAVE___BUILTIN_BSWAP32
+
+/* Define to 1 if you have the __builtin_bswap64 compiler intrinsic */
+#undef HAVE___BUILTIN_BSWAP64
+
+/* Define to 1 if you have the __builtin_ffs compiler intrinsic */
+#undef HAVE___BUILTIN_FFS
+
+/* Define to 1 if you have the __sync_add_and_fetch compiler intrinsic */
+#undef HAVE___SYNC_ADD_AND_FETCH
+
+/* Define to 1 if you have the __sync_synchronize compiler intrinsic */
+#undef HAVE___SYNC_SYNCHRONIZE
+
+/* Define to 1 if you have the __sync_val_compare_and_swap compiler intrinsic
+   */
+#undef HAVE___SYNC_VAL_COMPARE_AND_SWAP
+
+/* Define to necessary symbol if this constant uses a non-standard name on
+   your system. */
+#undef PTHREAD_CREATE_JOINABLE
